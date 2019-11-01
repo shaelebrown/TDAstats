@@ -8,7 +8,8 @@ Authors@R: c(
     person("Drew", "Williamson", role = "aut"),
     person("Jacob", "Scott", role = "aut"),
     person("Jason Cory", "Brunson", role = "ctb"),
-    person("Shota", "Ochi", role = "ctb"))
+    person("Shota", "Ochi", role = "ctb"),
+    person("Shael","Brown",role = "aut"))
 Description: A comprehensive toolset for any
     useR conducting topological data analysis, specifically via the
     calculation of persistent homology in a Vietoris-Rips complex.
